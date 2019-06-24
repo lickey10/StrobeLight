@@ -1,0 +1,5 @@
+Add the Android Hardware Flash Controller to your project and be able to control the flash on your Android device within seconds.
+
+Zero scripting required!
+ 
+Easy integration to existing projects.

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: bc4b96ef34b64dc4484724fa088d0b7c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ButtonBackground: {fileID: 2800000, guid: 2f1d850e6540f08499dc28e96f506801, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
